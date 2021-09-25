@@ -1,0 +1,7 @@
+{
+  "name": "Top 50 Cryptos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
