@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Top 50 Cryptos",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
